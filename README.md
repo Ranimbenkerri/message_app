@@ -1,5 +1,5 @@
 # Message-App
- MessageMe app made with flutter using Firebase
+ MessageMe Application made with flutter using Firebase
  # Used packege : 
   * Firebase-Auth
   * Cloud-firestore
